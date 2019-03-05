@@ -2,14 +2,14 @@
 
 This is my dev setup and tool chain
 
-## Productive Tool
+## Productive Tools
 
 - [Chrome](https://www.google.ca/chrome/?brand=CHBD&-gclid=EAIaIQobChMI543ZhvTp4AIVU7nACh1qzggQEAAYASAAEgKldvD_BwE&gclsrc=aw.ds) - Browser
 - [Alfred](https://www.alfredapp.com/) with [powerpack](https://www.alfredapp.com/powerpack/buy/) - Launcher and search tool for MacOs
 - [Skitch](https://evernote.com/products/skitch) - Screenshot tool
 - [Slack](https://slack.com/)
 
-## Development Tool
+## Development Tools
 
 - [Iterm2](https://www.iterm2.com/) with them [ayu](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/ayu.itermcolors) - Terminal
 - [VSCode](https://code.visualstudio.com/) - Code Editor
@@ -23,22 +23,22 @@ This is my dev setup and tool chain
 
   > Theme
 
-  - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&WT.mc_id=twitter-social-sdras)
-  - [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+  - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&WT.mc_id=twitter-social-sdras) - A VS Code theme for the night owls out there.
+  - [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - The most epic theme meets Visual Studio Code
 
   > Extensions
 
-  - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-  - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-  - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-  - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-  - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-  - [Full React/React Native/React Router/Redux/GraphQL/ES7/Testing/PropTypes snippets](https://marketplace.visualstudio.com/items?itemName=walter-ribeiro.full-react-snippets)
-  - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-  - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+  - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - This extension allows matching brackets to be identified with colours.
+  - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag
+  - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
+  - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - GitLens supercharges the Git capabilities built into Visual Studio Code
+  - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint into VS Code.
+  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - VS Code package to format your JavaScript / TypeScript / CSS
+  - [Full React/React Native/React Router/Redux/GraphQL/ES7/Testing/PropTypes snippets](https://marketplace.visualstudio.com/items?itemName=walter-ribeiro.full-react-snippets) - Code snippets
+  - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
+  - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements.
 
-## Library
+## Libraries
 
 - [styled-system](https://github.com/styled-system/styled-system) - Style props for rapid UI development
 - [react-toastify](https://github.com/fkhadra/react-toastify) - React-Toastify allow you to add notification to your app with ease. No bullshit !

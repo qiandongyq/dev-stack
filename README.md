@@ -37,11 +37,6 @@ This is my dev setup and tool chain
   - [Full React/React Native/React Router/Redux/GraphQL/ES7/Testing/PropTypes snippets](https://marketplace.visualstudio.com/items?itemName=walter-ribeiro.full-react-snippets)
   - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
   - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
-  - [SVGbackgrounds](https://www.svgbackgrounds.com/) - Customize and apply backgrounds fast
-    = [UnDraw](https://undraw.co/) - A constantly updated collection of beautiful svg images that you can use completely free and without attribution.
-  - [Mailtrap](https://mailtrap.io/) - Safe Email Testing for Development Teams
-  - [mjml](https://mjml.io/) - The only framework that makes responsive email easy
-  - [design-blocks](https://www.froala.com/design-blocks)
 
 ## Library
 
@@ -66,5 +61,9 @@ This is my dev setup and tool chain
 - [Font Flipper](https://fontflipper.com/upload) - Preview 800+ Google Fonts on top of your own designs, without having to download the fonts first.
 - [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - Open source web design debug tools built with JavaScript: a FireBug for designers.
 - [Insomnia](https://insomnia.rest/) - Powerful HTTP and GraphQL tool belt
-
 - [FLARE](https://www.2dimensions.com/about-flare) - Bring Your Apps and Games to Life with Real-time Animation.
+- [SVGbackgrounds](https://www.svgbackgrounds.com/) - Customize and apply backgrounds fast
+- [UnDraw](https://undraw.co/) - A constantly updated collection of beautiful svg images that you can use completely free and without attribution.
+- [Mailtrap](https://mailtrap.io/) - Safe Email Testing for Development Teams
+- [mjml](https://mjml.io/) - The only framework that makes responsive email easy
+- [design-blocks](https://www.froala.com/design-blocks) - Over 170 responsive design blocks ready to be used in your web or mobile apps.

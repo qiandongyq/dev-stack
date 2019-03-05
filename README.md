@@ -4,16 +4,12 @@ This is my dev setup and tool chain
 
 ## Productive Tool
 
----
-
 - [Chrome](https://www.google.ca/chrome/?brand=CHBD&-gclid=EAIaIQobChMI543ZhvTp4AIVU7nACh1qzggQEAAYASAAEgKldvD_BwE&gclsrc=aw.ds) - Browser
 - [Alfred](https://www.alfredapp.com/) with [powerpack](https://www.alfredapp.com/powerpack/buy/) - Launcher and search tool for MacOs
 - [Skitch](https://evernote.com/products/skitch) - Screenshot tool
 - [Slack](https://slack.com/)
 
 ## Development Tool
-
----
 
 - [Iterm2](https://www.iterm2.com/) with them [ayu](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/ayu.itermcolors) - Terminal
 - [VSCode](https://code.visualstudio.com/) - Code Editor
@@ -61,11 +57,7 @@ This is my dev setup and tool chain
 - [react-overdrive](https://github.com/berzniz/react-overdrive) - Super easy magic-move transitions for React apps
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 
----
-
 ## Tools
-
----
 
 - [dbdiagram.io](https://dbdiagram.io/home?utm_source=holistics&utm_medium=top_5_tools_blog) - Draw entity-relationship diagram easily
 - [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle

@@ -7,7 +7,7 @@ This is my dev setup and tool chain
 - [Chrome](https://www.google.ca/chrome/?brand=CHBD&-gclid=EAIaIQobChMI543ZhvTp4AIVU7nACh1qzggQEAAYASAAEgKldvD_BwE&gclsrc=aw.ds) - Browser
 - [Alfred](https://www.alfredapp.com/) with [powerpack](https://www.alfredapp.com/powerpack/buy/) - Launcher and search tool for MacOs
 - [Skitch](https://evernote.com/products/skitch) - Screenshot tool
-- [Slack](https://slack.com/)
+- [Slack](https://slack.com/) - Slack is a collaboration hub for work, no matter what work you do.
 
 ## Development Tools
 

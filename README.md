@@ -8,12 +8,14 @@ This is my dev setup and tool chain
 - [Alfred](https://www.alfredapp.com/) with [powerpack](https://www.alfredapp.com/powerpack/buy/) - Launcher and search tool for MacOs
 - [Skitch](https://evernote.com/products/skitch) - Screenshot tool
 - [Slack](https://slack.com/) - Slack is a collaboration hub for work, no matter what work you do.
+- [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease
 
 ## Development Tools
 
 - [Iterm2](https://www.iterm2.com/) with them [ayu](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/ayu.itermcolors) - Terminal
   - [Iterm2 Setup](https://github.com/ahmadawais/Shades-of-Purple-iTerm2)
 - [VSCode](https://code.visualstudio.com/) - Code Editor
+
   > Fonts
 
   - [Dank Mono](https://dank.sh/) - Main Font
@@ -29,7 +31,7 @@ This is my dev setup and tool chain
 
   > Extensions
 
-  - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - This extension allows matching brackets to be identified with colours.
+  - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - This extension allows matching brackets to be identified with colors.
   - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag
   - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
   - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - GitLens supercharges the Git capabilities built into Visual Studio Code

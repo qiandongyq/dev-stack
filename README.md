@@ -12,8 +12,8 @@ This is my dev setup and tool chain
 ## Development Tools
 
 - [Iterm2](https://www.iterm2.com/) with them [ayu](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/ayu.itermcolors) - Terminal
+  - [Iterm2 Setup](https://github.com/ahmadawais/Shades-of-Purple-iTerm2)
 - [VSCode](https://code.visualstudio.com/) - Code Editor
-
   > Fonts
 
   - [Dank Mono](https://dank.sh/) - Main Font
@@ -25,6 +25,7 @@ This is my dev setup and tool chain
 
   - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&WT.mc_id=twitter-social-sdras) - A VS Code theme for the night owls out there.
   - [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - The most epic theme meets Visual Studio Code
+  - [Shades of purple](https://github.com/ahmadawais/shades-of-purple-vscode) - A professional theme with hand-picked & bold shades of purple to go along with your VSCode
 
   > Extensions
 

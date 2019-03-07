@@ -54,6 +54,7 @@ This is my dev setup and tool chain
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears (validation)
 - [react-overdrive](https://github.com/berzniz/react-overdrive) - Super easy magic-move transitions for React apps
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
+- [react-fast-compare](https://github.com/FormidableLabs/react-fast-compare) - The fastest deep equal comparison for React. Really fast general-purpose deep comparison.
 
 ## Tools
 
